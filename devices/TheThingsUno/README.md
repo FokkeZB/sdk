@@ -1,4 +1,4 @@
-# The Things Uno SDK
+# The Things Uno Library
 
 ## Introduction
 
